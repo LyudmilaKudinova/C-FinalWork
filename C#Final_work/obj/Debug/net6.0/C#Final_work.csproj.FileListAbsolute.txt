@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\bin\Debug\net6.0\C#Final_work.exe
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\bin\Debug\net6.0\C#Final_work.deps.json
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\bin\Debug\net6.0\C#Final_work.runtimeconfig.json
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\bin\Debug\net6.0\C#Final_work.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\bin\Debug\net6.0\C#Final_work.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\refint\C#Final_work.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\C#Final_work.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#FinalWork\C#Final_work\obj\Debug\net6.0\ref\C#Final_work.dll
